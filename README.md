@@ -9,24 +9,22 @@ This repository will be updated every time I get a certificate.
 # Solutions
 
 ## [JavaScript Algorithms And Data Structures Certification](fixthislater.com)
-### Solution
-### Repl.it 
+### [Solution](fixthislater.com)
+### [Repl.it](fixthislater.com)
 
 ## [Scientific Computing With Python Certification](fixthislater.com)
-### Solution
-### Repl.it
+### [Solution](fixthislater.com)
+### [Repl.it](fixthislater.com)
 
 ## [Backend Development And APIs Certification](fixthislater.com)
-### Solution
-### Repl.it
+### [Solution](fixthislater.com)
+### [Repl.it](fixthislater.com)
 
 ## [College Algebra With Python Certification](fixthislater.com)
-### Solution
-### Repl.it
+### [Solution](fixthislater.com)
+### [Repl.it](fixthislater.com)
 
 ## [Information Security Certification](fixthislater.com)
-### Solution
-### Repl.it
-### Solution
-### Repl.it 
+### [Solution](fixthislater.com)
+### [Repl.it](fixthislater.com)
 
