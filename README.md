@@ -4,8 +4,6 @@ My solutions to various problems for certifications on [FreeCodeCamp](https://fr
 
 If you're interested, you can check out my [profile](https://freecodecamp.org/ret2christian).
 
-This repository will be updated every time I get a certificate.
-
 **🚨NOTE🚨**: All of the solutions are written in Python 3.12.0
 
 # Solutions
