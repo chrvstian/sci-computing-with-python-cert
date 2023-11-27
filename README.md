@@ -6,4 +6,10 @@ If you're interested, you can check out my [profile](https://freecodecamp.org/re
 
 # Solutions
 
-### - [Scientific Computing With Python](google.com)
+### Scientific Computing With Python
+## Solution
+## Repl.it
+
+### JavaScript Algorithms And Data Structures
+## 
+
