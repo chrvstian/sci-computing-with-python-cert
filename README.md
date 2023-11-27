@@ -4,7 +4,7 @@ My solutions to various problems for certifications on [FreeCodeCamp](https://fr
 
 If you're interested, you can check out my [profile](https://freecodecamp.org/ret2christian).
 
-**🚨NOTE🚨**: All of the solutions are written in Python 3.12.0
+**🚨NOTE🚨**: All solutions are in Python 3.12.0
 
 # Solutions
 
