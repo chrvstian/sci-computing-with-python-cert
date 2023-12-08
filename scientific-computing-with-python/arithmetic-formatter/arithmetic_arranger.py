@@ -1,5 +1,5 @@
 """
-@name: arithmetic_formatter.py
+@name: .py
 @date: 07/11/2023 (dd/mm/yy)
 @author: github.com/chrvstian
 """
