@@ -20,6 +20,10 @@ If you're interested, you can check out my [profile](https://freecodecamp.org/re
 - ### [Solutions](fixthislater.com)
 - ### [Repl.it](fixthislater.com)
 
+## [Responsive Web Design Certification](fixthislater.com)
+- ### [Solutions](fixthislater.com)
+- ### [Repl.it](fixthislater.com)
+
 ## [Information Security Certification](fixthislater.com)
 - ### [Solutions](fixthislater.com)
 - ### [Repl.it](fixthislater.com)
