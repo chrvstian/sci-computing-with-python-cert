@@ -1,6 +1,6 @@
 # FreeCodeCamp
 
-My solutions to various problems for certifications on [FreeCodeCamp](https://freecodecamp.org), along with detailed comments for anyone who's trying to understand how they work.
+My solutions to various problems for certifications on [FreeCodeCamp](https://freecodecamp.org/ret2christian), along with detailed comments for anyone who's trying to understand how they work.
 
 If you're interested, you can check out my [profile](https://freecodecamp.org/ret2christian).
 
