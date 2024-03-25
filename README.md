@@ -6,7 +6,5 @@ You can visit my profile [here.](https://freecodecamp.org/ret2christian)
 
 # Solutions
 
-## [Certificatio](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-
 - ### [Solutions](https://github.com/chrvstian/sci-computing-with-python-cert)
 - ### [Repl.it](https://replit.com/@null-ptrs?path=folder/Scientific%20Computing%20With%20Python%20Solutions)
