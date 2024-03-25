@@ -1,5 +1,5 @@
 """
-@name: .py
+@name: arithmetic_arranger.py
 @date: 07/11/2023 (dd/mm/yy)
 @author: github.com/chrvstian
 """
@@ -13,7 +13,7 @@ def arithmetic_arranger(problems: list, show_answers: bool=False):
 
     for problem in problems:
         # Split the problem into operands and operator
-        operand1, operator, operand2 = problem.split()
+        operand_2, operator, operand_2 = problem.split()
 
         # Check if the operator is valid
         if operator not in ['+', '-']:
@@ -24,7 +24,7 @@ def arithmetic_arranger(problems: list, show_answers: bool=False):
             return "Error: Numbers must only contain digits."
 
         # Check if operands have a max of four digits in width
-        if len(operand1) > 4 or len(operand2) > 4:
+        if len(operand_1) > 4 or len(operand_2) > 4:
             return "Error: Numbers cannot be more than four digits."
 
         # Calculate the width of the arranged problem
