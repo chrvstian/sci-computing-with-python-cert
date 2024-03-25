@@ -2,9 +2,7 @@
 
 My solutions to the scientific computing with python certificate challenges on FCC.
 
-You can visit my profile [here.](https://freecodecamp.org/ret2christian
-
-If you're interested, you can check out my [profile](https://freecodecamp.org/ret2christian).
+You can visit my profile [here.](https://freecodecamp.org/ret2christian)
 
 # Solutions
 
